@@ -1,0 +1,11 @@
+CUDA Batch Image Grayscale Processing
+GPU: Tesla T4
+Input: "images/input"
+Output: "images/output"
+Requested limit: 150
+Images discovered: 150
+Images processed successfully: 150
+Images failed: 0
+Total GPU kernel time (ms): 5.08512
+Average GPU kernel time per image (ms): 0.0339008
+Processing complete.
