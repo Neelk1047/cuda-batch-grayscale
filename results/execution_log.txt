@@ -1,0 +1,8 @@
+Execution log placeholder.
+
+Run the project on a CUDA-capable machine and replace this file with the actual terminal output.
+
+Example command:
+./batch_grayscale --input images/input --output images/output --limit 150
+
+Do not submit fabricated GPU names or timing values.
